@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/pandj/static/css/main.e6c13ad2.css",
-    "main.js": "/pandj/static/js/main.2cd72f96.js",
+    "main.css": "/pandj/static/css/main.f1ba26ba.css",
+    "main.js": "/pandj/static/js/main.4d3b37be.js",
+    "static/media/robert-bye-OlZ1nWLEEgM-unsplash.jpg": "/pandj/static/media/robert-bye-OlZ1nWLEEgM-unsplash.b345f53af2605700d4d9.jpg",
     "index.html": "/pandj/index.html",
-    "main.e6c13ad2.css.map": "/pandj/static/css/main.e6c13ad2.css.map",
-    "main.2cd72f96.js.map": "/pandj/static/js/main.2cd72f96.js.map"
+    "main.f1ba26ba.css.map": "/pandj/static/css/main.f1ba26ba.css.map",
+    "main.4d3b37be.js.map": "/pandj/static/js/main.4d3b37be.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.2cd72f96.js"
+    "static/css/main.f1ba26ba.css",
+    "static/js/main.4d3b37be.js"
   ]
 }
