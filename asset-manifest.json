@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/pandj/static/css/main.f1ba26ba.css",
-    "main.js": "/pandj/static/js/main.4d3b37be.js",
+    "main.js": "/pandj/static/js/main.fcbc5759.js",
     "static/media/robert-bye-OlZ1nWLEEgM-unsplash.jpg": "/pandj/static/media/robert-bye-OlZ1nWLEEgM-unsplash.b345f53af2605700d4d9.jpg",
     "index.html": "/pandj/index.html",
     "main.f1ba26ba.css.map": "/pandj/static/css/main.f1ba26ba.css.map",
-    "main.4d3b37be.js.map": "/pandj/static/js/main.4d3b37be.js.map"
+    "main.fcbc5759.js.map": "/pandj/static/js/main.fcbc5759.js.map"
   },
   "entrypoints": [
     "static/css/main.f1ba26ba.css",
-    "static/js/main.4d3b37be.js"
+    "static/js/main.fcbc5759.js"
   ]
 }
