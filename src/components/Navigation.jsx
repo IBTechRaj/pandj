@@ -6,8 +6,8 @@ function Navigation() {
     <div className="navigation fixed-top">
       <nav className="navbar navbar-expand navbar-dark bg-dark">
         <div className="container">
-          <NavLink className="navbar-brand" to="/">
-           Peace and Joy Fellowship Church
+          <NavLink className="navbar-brand " to="/">
+            Peace and Joy Fellowship Church
           </NavLink>
           <div>
             <ul className="navbar-nav ml-auto">
@@ -25,6 +25,11 @@ function Navigation() {
               <li className="nav-item">
                 <NavLink className="nav-link" to="/contact">
                   Contact
+                </NavLink>
+              </li>
+              <li className="nav-item">
+                <NavLink className="nav-link" to="/sermons">
+                  Sermons
                 </NavLink>
               </li>
               <li className="nav-item">
