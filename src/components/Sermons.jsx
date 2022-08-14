@@ -146,6 +146,113 @@ export default function Sermons() {
                     </div>
                 </div>
                 {/* *******************************************************************************************************************************  */}
+                <div className="row align-items-center my-5">
+                    <div className="col-lg-6">
+                        <h5 className="font-weight-bold">Despair: Breaking Down or Breaking Through</h5>
+                        <h6 className="font-weight-bold">26th June 2022 - Worship Message</h6>
+                        <div className="embed-responsive embed-responsive-16by9">
+
+                            <iframe width="885" height="498" src="https://www.youtube.com/embed/8OzYYSO9zrY" title="Despair: Breaking Down or Breaking Through?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>     </div>
+                    </div>
+
+                    <div className="col-lg-6">
+                        <h5 className="font-weight-bold">True Meaning of Burnt Offerings</h5>
+                        <h6 className="font-weight-bold">26th June 2022 - Main Message</h6>
+                        <div className="embed-responsive embed-responsive-16by9">
+                            <iframe width="885" height="498" src="https://www.youtube.com/embed/IoIGyTOFJA4" title="True Meaning of Burnt Offerings" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>      </div>
+                    </div>
+                </div>
+                {/* *******************************************************************************************************************************  */}
+                <div className="row align-items-center my-5">
+                    <div className="col-lg-6">
+                        <h5 className="font-weight-bold">Lambs Among Wolves</h5>
+                        <h6 className="font-weight-bold">3rd July 2022 - Worship Message</h6>
+                        <div className="embed-responsive embed-responsive-16by9">
+                            <iframe width="885" height="498" src="https://www.youtube.com/embed/akKs9LSNxjY" title="Lambs among wolves - Worship Exhortation – 3 July 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>     </div>
+                    </div>
+                    <div className="col-lg-6">
+                        <h5 className="font-weight-bold">Our GOD is Able to Save Us</h5>
+                        <h6 className="font-weight-bold">3rd July 2022 - Main Message</h6>
+                        <div className="embed-responsive embed-responsive-16by9">
+                            <iframe width="885" height="498" src="https://www.youtube.com/embed/V3IHYcaL61A" title="Our GOD is Able to Save Us – Message – 3 July 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>     </div>
+                    </div>
+                </div>
+                {/* *******************************************************************************************************************************  */}
+                <div className="row align-items-center my-5">
+                    <div className="col-lg-6">
+                        <h5 className="font-weight-bold">Have YOU Not Put a Hedge around Him</h5>
+                        <h6 className="font-weight-bold">10th July 2022 - Worship Message</h6>
+                        <div className="embed-responsive embed-responsive-16by9">
+                            <iframe width="885" height="498" src="https://www.youtube.com/embed/2bwaahqy6GQ" title="Have YOU Not Put a Hedge around Him – Worship Exhortation – 10 July 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>    </div>
+                    </div>
+                    <div className="col-lg-6">
+                        <h5 className="font-weight-bold">Fear & Courage</h5>
+                        <h6 className="font-weight-bold">10th July 2022 - Main Message</h6>
+                        <div className="embed-responsive embed-responsive-16by9">
+                            <iframe width="885" height="498" src="https://www.youtube.com/embed/xSDtIf9lCtY" title="Fear & Courage – Message – 10 July 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>     </div>
+                    </div>
+                </div>
+                {/* *******************************************************************************************************************************  */}
+                <div className="row align-items-center my-5">
+                    <div className="col-lg-6">
+                        <h5 className="font-weight-bold">Facing Your Storms</h5>
+                        <h6 className="font-weight-bold">17th July 2022 - Worship Message</h6>
+                        <div className="embed-responsive embed-responsive-16by9">
+                            <iframe width="885" height="498" src="https://www.youtube.com/embed/GCQMlPkBiyA" title="Facing Your Storms – Worship Exhortation – 10 July 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>    </div>
+                    </div>
+                    <div className="col-lg-6">
+                        <h5 className="font-weight-bold">Parable of the Unfaithful Steward</h5>
+                        <h6 className="font-weight-bold">17th July 2022 - Main Message</h6>
+                        <div className="embed-responsive embed-responsive-16by9">
+                            <iframe width="885" height="498" src="https://www.youtube.com/embed/r8LgqoY-hgM" title="Parable of the Unfaithful Steward – Message – 17 July 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>      </div>
+                    </div>
+                </div>
+                {/* *******************************************************************************************************************************  */}
+                <div className="row align-items-center my-5">
+                    <div className="col-lg-6">
+                        <h5 className="font-weight-bold">Wonderful Provider</h5>
+                        <h6 className="font-weight-bold">24th July 2022 - Worship Message</h6>
+                        <div className="embed-responsive embed-responsive-16by9">
+                            <iframe width="885" height="498" src="https://www.youtube.com/embed/5FBzpm6t_wI" title="Wonderful Provider - Worship Exhortation – 24 July 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>    </div>
+                    </div>
+                    <div className="col-lg-6">
+                        <h5 className="font-weight-bold">Jephthah - Lessons in overcoming Rejection</h5>
+                        <h6 className="font-weight-bold">24th July 2022 - Main Message</h6>
+                        <div className="embed-responsive embed-responsive-16by9">
+                            <iframe width="885" height="498" src="https://www.youtube.com/embed/vg_qjcNuoJU" title="Jephthah - Lessons in overcoming Rejection – Message – 24 July 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>      </div>
+                    </div>
+                </div>
+                {/* *******************************************************************************************************************************  */}
+                <div className="row align-items-center my-5">
+                    <div className="col-lg-6">
+                        <h5 className="font-weight-bold">The battle belongs to The LORD</h5>
+                        <h6 className="font-weight-bold">31st July 2022 - Worship Message</h6>
+                        <div className="embed-responsive embed-responsive-16by9">
+                            <iframe width="885" height="498" src="https://www.youtube.com/embed/rBi4VW1652M" title="The battle belongs to The LORD – Worship Exhortation – 31 July 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>     </div>
+                    </div>
+                    <div className="col-lg-6">
+                        <h5 className="font-weight-bold">Sons of Sceva - The Danger of Pretense</h5>
+                        <h6 className="font-weight-bold">31st July 2022 - Main Message</h6>
+                        <div className="embed-responsive embed-responsive-16by9">
+                            <iframe width="885" height="498" src="https://www.youtube.com/embed/d4kKBnamXlM" title="Sons of Sceva - The Danger of Pretense – Message – 31 July 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>     </div>
+                    </div>
+                </div>
+                {/* *******************************************************************************************************************************  */}
+                <div className="row align-items-center my-5">
+                    <div className="col-lg-6">
+                        <h5 className="font-weight-bold">WHO backs You?</h5>
+                        <h6 className="font-weight-bold">7th August 2022 - Worship Message</h6>
+                        <div className="embed-responsive embed-responsive-16by9">
+                            <iframe width="885" height="498" src="https://www.youtube.com/embed/C0QptTX_c8I" title="WHO backs You? – Worship Exhortation – 7 August 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>    </div>
+                    </div>
+                    <div className="col-lg-6">
+                        <h5 className="font-weight-bold">The GOD WHO is Always There </h5>
+                        <h6 className="font-weight-bold">7th August 2022 - Main Message</h6>
+                        <div className="embed-responsive embed-responsive-16by9">
+                            <iframe width="885" height="498" src="https://www.youtube.com/embed/g6iZzjoblKw" title="The GOD WHO is Always There – Message – 7 Aug 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>     </div>
+                    </div>
+                </div>
+                {/* *******************************************************************************************************************************  */}
 
 
 

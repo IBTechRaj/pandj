@@ -70,3 +70,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 # pandj
+
+Deploying to Github Pages :
+https://www.c-sharpcorner.com/article/how-to-deploy-react-application-on-github-pages/
