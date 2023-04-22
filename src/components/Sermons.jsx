@@ -59,7 +59,7 @@ export default function Sermons() {
                         <h5 className="font-weight-bold">The Flight of an Arrow </h5>
                         <h6 className="font-weight-bold">14th August 2022 - Worship Message</h6>
                         <div className="embed-responsive embed-responsive-16by9">
-                            <iframe width="885" height="498" src="https://www.youtube.com/watch?v=qG8I0sv2sdk" title="WHO backs You? – Worship Exhortation – 7 August 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>    </div>
+                            <iframe width="885" height="498" src="https://www.youtube.com/embed/qG8I0sv2sdk" title="The Flight of an Arrow – Worship Exhortation – 14 August 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>    </div>
                     </div>
                     <div className="col-lg-6">
                         <h5 className="font-weight-bold">Home that The LORD builds </h5>
