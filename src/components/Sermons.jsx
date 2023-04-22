@@ -8,7 +8,66 @@ export default function Sermons() {
                 <div className="row">
                     <img src="../../public/images/aaron-burden-9zsHNt5OpqE-unsplash.jpg" class="img-fluid sermon-image" alt="no img" />
                 </div>
-
+                {/* *******************************************************************************************************************************  */}
+                <div className="row align-items-center my-5">
+                    <div className="col-lg-6">
+                        <h5 className="font-weight-bold">Under The SHEPHERD's Care</h5>
+                        <h6 className="font-weight-bold">4th September 2022 - Worship Message</h6>
+                        <div className="embed-responsive embed-responsive-16by9">
+                            <iframe width="885" height="498" src="https://youtu.be/Z_dcyyLpV8o" title="WHO backs You? – Worship Exhortation – 7 August 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>    </div>
+                    </div>
+                    <div className="col-lg-6">
+                        <h5 className="font-weight-bold">One Reason for Pain </h5>
+                        <h6 className="font-weight-bold">4th September 2022 - Main Message</h6>
+                        <div className="embed-responsive embed-responsive-16by9">
+                            <iframe width="885" height="498" src="https://youtu.be/LxFprxAToXs" title="The GOD WHO is Always There – Message – 7 Aug 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>     </div>
+                    </div>
+                </div>
+                {/* *******************************************************************************************************************************  */}
+                <div className="row align-items-center my-5">
+                    <div className="col-lg-6">
+                        <h5 className="font-weight-bold">GOD knows Your Story Intimately</h5>
+                        <h6 className="font-weight-bold">28th August 2022 - Worship Message</h6>
+                        <div className="embed-responsive embed-responsive-16by9">
+                            <iframe width="885" height="498" src="https://www.youtube.com/watch?v=T3u_985eqE8" title="WHO backs You? – Worship Exhortation – 7 August 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>    </div>
+                    </div>
+                    <div className="col-lg-6">
+                        <h5 className="font-weight-bold">Are We Truly Healed? </h5>
+                        <h6 className="font-weight-bold">28th August 2022 - Main Message</h6>
+                        <div className="embed-responsive embed-responsive-16by9">
+                            <iframe width="885" height="498" src="https://www.youtube.com/watch?v=G4iamaC20Zk" title="The GOD WHO is Always There – Message – 7 Aug 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>     </div>
+                    </div>
+                </div>
+                {/* *******************************************************************************************************************************  */}
+                <div className="row align-items-center my-5">
+                    <div className="col-lg-6">
+                        <h5 className="font-weight-bold">'It So Happened' - By Chance or by Design? </h5>
+                        <h6 className="font-weight-bold">21st August 2022 - Worship Message</h6>
+                        <div className="embed-responsive embed-responsive-16by9">
+                            <iframe width="885" height="498" src="https://www.youtube.com/watch?v=X47OPPBKTQ0" title="WHO backs You? – Worship Exhortation – 7 August 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>    </div>
+                    </div>
+                    <div className="col-lg-6">
+                        <h5 className="font-weight-bold">The GOD of Peace </h5>
+                        <h6 className="font-weight-bold">21st August 2022 - Main Message</h6>
+                        <div className="embed-responsive embed-responsive-16by9">
+                            <iframe width="885" height="498" src="https://www.youtube.com/watch?v=cR5Ga6jio-w" title="The GOD WHO is Always There – Message – 7 Aug 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>     </div>
+                    </div>
+                </div>
+                {/* *******************************************************************************************************************************  */}
+                <div className="row align-items-center my-5">
+                    <div className="col-lg-6">
+                        <h5 className="font-weight-bold">The Flight of an Arrow </h5>
+                        <h6 className="font-weight-bold">14th August 2022 - Worship Message</h6>
+                        <div className="embed-responsive embed-responsive-16by9">
+                            <iframe width="885" height="498" src="https://www.youtube.com/watch?v=qG8I0sv2sdk" title="WHO backs You? – Worship Exhortation – 7 August 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>    </div>
+                    </div>
+                    <div className="col-lg-6">
+                        <h5 className="font-weight-bold">Home that The LORD builds </h5>
+                        <h6 className="font-weight-bold">14th August 2022 - Main Message</h6>
+                        <div className="embed-responsive embed-responsive-16by9">
+                            <iframe width="885" height="498" src="https://www.youtube.com/watch?v=6bNwIJVak7o" title="The GOD WHO is Always There – Message – 7 Aug 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>     </div>
+                    </div>
+                </div>
                 {/* *******************************************************************************************************************************  */}
                 <div className="row align-items-center my-5">
                     <div className="col-lg-6">
