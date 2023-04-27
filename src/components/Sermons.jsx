@@ -11,6 +11,81 @@ export default function Sermons() {
                 {/* *******************************************************************************************************************************  */}
                 <div className="row align-items-center my-5">
                     <div className="col-lg-6">
+                        <h5 className="font-weight-bold">God’s Amazing Love</h5>
+                        <h6 className="font-weight-bold">6th November 2022 - Worship Message</h6>
+                        <div className="embed-responsive embed-responsive-16by9">
+                            <iframe width="885" height="498" src="https://www.youtube.com/embed/cJ_DhmWDX-k" title="God’s Amazing Love – Worship Exhortation – 6 November 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>    </div>
+                    </div>
+                    <div className="col-lg-6">
+                        <h5 className="font-weight-bold">The Man Who Almost Gave Up </h5>
+                        <h6 className="font-weight-bold">6th November 2022 - Main Message</h6>
+                        <div className="embed-responsive embed-responsive-16by9">
+                            <iframe width="885" height="498" src="https://www.youtube.com/embed/tOZ-9Q81A4I" title="The Man Who Almost Gave Up – Message – 6 November 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>     </div>
+                    </div>
+                </div>
+                {/* *******************************************************************************************************************************  */}
+                <div className="row align-items-center my-5">
+                    <div className="col-lg-6">
+                        <h5 className="font-weight-bold">If GOD be for Us…</h5>
+                        <h6 className="font-weight-bold">30th October 2022 - Worship Message</h6>
+                        <div className="embed-responsive embed-responsive-16by9">
+                            <iframe width="885" height="498" src="https://www.youtube.com/embed/hgkCWsE3c-I" title="If GOD be for Us… – Worship Exhortation – 30 October 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>    </div>
+                    </div>
+                    <div className="col-lg-6">
+                        <h5 className="font-weight-bold">Jehonadab: Son of Recab </h5>
+                        <h6 className="font-weight-bold">30th October 2022 - Main Message</h6>
+                        <div className="embed-responsive embed-responsive-16by9">
+                            <iframe width="885" height="498" src="https://www.youtube.com/embed/_0dmGIkTA68" title="Jehonadab: Son of Recab – Message – 30 October 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>     </div>
+                    </div>
+                </div>
+                {/* *******************************************************************************************************************************  */}
+                <div className="row align-items-center my-5">
+                    <div className="col-lg-6">
+                        <h5 className="font-weight-bold">Who am I ?</h5>
+                        <h6 className="font-weight-bold">23rd October 2022 - Worship Message</h6>
+                        <div className="embed-responsive embed-responsive-16by9">
+                            <iframe width="885" height="498" src="https://www.youtube.com/embed/q0ogyEu8j5o" title="Who am I ? – Worship Exhortation – 23 October 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>    </div>
+                    </div>
+                    <div className="col-lg-6">
+                        <h5 className="font-weight-bold">Don't envy the ungodly </h5>
+                        <h6 className="font-weight-bold">23rd October 2022 - Main Message</h6>
+                        <div className="embed-responsive embed-responsive-16by9">
+                            <iframe width="885" height="498" src="https://www.youtube.com/embed/SCMArx2zebw" title="Don&#39;t envy the ungodly – Message – 23 October 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>     </div>
+                    </div>
+                </div>
+                {/* *******************************************************************************************************************************  */}
+                <div className="row align-items-center my-5">
+                    <div className="col-lg-6">
+                        <h5 className="font-weight-bold">MASTER</h5>
+                        <h6 className="font-weight-bold">16th October 2022 - Worship Message</h6>
+                        <div className="embed-responsive embed-responsive-16by9">
+                            <iframe width="885" height="498" src="https://www.youtube.com/embed/w61JW-GSLGI" title="MASTER – Worship Exhortation – 16 October 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>    </div>
+                    </div>
+                    <div className="col-lg-6">
+                        <h5 className="font-weight-bold">Her Time is at Hand </h5>
+                        <h6 className="font-weight-bold">16th October 2022 - Main Message</h6>
+                        <div className="embed-responsive embed-responsive-16by9">
+                            <iframe width="885" height="498" src="https://www.youtube.com/embed/FER_wdG65mo" title="Her Time is at Hand – Message – 16 October 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>    </div>
+                    </div>
+                </div>
+                {/* *******************************************************************************************************************************  */}
+                <div className="row align-items-center my-5">
+                    <div className="col-lg-6">
+                        <h5 className="font-weight-bold">The LORD's Loving Kindness to Us</h5>
+                        <h6 className="font-weight-bold">9th October 2022 - Worship Message</h6>
+                        <div className="embed-responsive embed-responsive-16by9">
+                            <iframe width="885" height="498" src="https://www.youtube.com/embed/zs0r9_l69eY" title="The LORD&#39;s Loving Kindness to Us – Worship Exhortation – 9 October 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>    </div>
+                    </div>
+                    <div className="col-lg-6">
+                        <h5 className="font-weight-bold">Who is My Neighbour? </h5>
+                        <h6 className="font-weight-bold">9th October 2022 - Main Message</h6>
+                        <div className="embed-responsive embed-responsive-16by9">
+                            <iframe width="885" height="498" src="https://www.youtube.com/embed/WZ9X4dzb6J0" title="Who is My Neighbour? – Message – 9 October 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>     </div>
+                    </div>
+                </div>
+                {/* *******************************************************************************************************************************  */}
+                <div className="row align-items-center my-5">
+                    <div className="col-lg-6">
                         <h5 className="font-weight-bold">The GOD of Armies</h5>
                         <h6 className="font-weight-bold">2nd October 2022 - Worship Message</h6>
                         <div className="embed-responsive embed-responsive-16by9">
