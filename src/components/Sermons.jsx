@@ -11,6 +11,67 @@ export default function Sermons() {
                 {/* *******************************************************************************************************************************  */}
                 <div className="row align-items-center my-5">
                     <div className="col-lg-6">
+                        <h5 className="font-weight-bold">GOD WHO Satisfies</h5>
+                        <h6 className="font-weight-bold">4th December 2022 - Worship Message</h6>
+                        <div className="embed-responsive embed-responsive-16by9">
+                            <iframe width="885" height="498" src="https://www.youtube.com/embed/TvpWkUFczHk" title="GOD WHO Satisfies – Worship Exhortation – 4 December 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>    </div>
+                    </div>
+                    <div className="col-lg-6">
+                        <h5 className="font-weight-bold">Faith Conquers, Fear Paralyses </h5>
+                        <h6 className="font-weight-bold">4th December 2022 - Main Message</h6>
+                        <div className="embed-responsive embed-responsive-16by9">
+                            <iframe width="885" height="498" src="https://www.youtube.com/embed/t1e4tO1qaIs" title="Faith Conquers, Fear Paralyses – Message – 4 December 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>     </div>
+                    </div>
+                </div>
+                {/* *******************************************************************************************************************************  */}
+                <div className="row align-items-center my-5">
+                    <div className="col-lg-6">
+                        <h5 className="font-weight-bold">When GOD sighed</h5>
+                        <h6 className="font-weight-bold">27th November 2022 - Worship Message</h6>
+                        <div className="embed-responsive embed-responsive-16by9">
+                            <iframe width="885" height="498" src="https://www.youtube.com/embed/EBzIRxB-KBI" title="When GOD sighed – Worship Exhortation – 27 November 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>    </div>
+                    </div>
+                    <div className="col-lg-6">
+                        <h5 className="font-weight-bold">True Blessings </h5>
+                        <h6 className="font-weight-bold">27th November 2022 - Main Message</h6>
+                        <div className="embed-responsive embed-responsive-16by9">
+                            <iframe width="885" height="498" src="https://www.youtube.com/embed/b6NUhDmnMzo" title="True Blessings – Message – 27 November 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>     </div>
+                    </div>
+                </div>
+                {/* *******************************************************************************************************************************  */}
+                <div className="row align-items-center my-5">
+                    <div className="col-lg-6">
+                        <h5 className="font-weight-bold">Great Price Paid (in Telugu)</h5>
+                        <h6 className="font-weight-bold">20th November 2022 - Worship Message</h6>
+                        <div className="embed-responsive embed-responsive-16by9">
+                            <iframe width="885" height="498" src="https://www.youtube.com/embed/DeWPBcm0nYo" title="Great Price Paid (in Telugu) – Worship Exhortation – 20 November 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>    </div>
+                    </div>
+                    <div className="col-lg-6">
+                        <h5 className="font-weight-bold">You have Brought this Harm on Yourself </h5>
+                        <h6 className="font-weight-bold">20th November 2022 - Main Message</h6>
+                        <div className="embed-responsive embed-responsive-16by9">
+                            <iframe width="885" height="498" src="https://www.youtube.com/embed/1vr3N7v6ENc" title="You have Brought this Harm on Yourself – Message – 20 November 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>     </div>
+                    </div>
+                </div>
+                {/* *******************************************************************************************************************************  */}
+                <div className="row align-items-center my-5">
+                    <div className="col-lg-6">
+                        <h5 className="font-weight-bold">About This Time Tomorrow</h5>
+                        <h6 className="font-weight-bold">13th November 2022 - Worship Message</h6>
+                        <div className="embed-responsive embed-responsive-16by9">
+                            <iframe width="885" height="498" src="https://www.youtube.com/embed/YwaoafgJpy0" title="About This Time Tomorrow – Worship Exhortation – 13 November 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>    </div>
+                    </div>
+                    <div className="col-lg-6">
+                        <h5 className="font-weight-bold">Are You Building in Vain? </h5>
+                        <h6 className="font-weight-bold">13th November 2022 - Main Message</h6>
+                        <div className="embed-responsive embed-responsive-16by9">
+                            <iframe width="885" height="498" src="https://www.youtube.com/embed/tMe69-MCeHI" title="Are You Building in Vain? – Message – 13 November 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>     </div>
+                    </div>
+                </div>
+
+                {/* *******************************************************************************************************************************  */}
+                <div className="row align-items-center my-5">
+                    <div className="col-lg-6">
                         <h5 className="font-weight-bold">God’s Amazing Love</h5>
                         <h6 className="font-weight-bold">6th November 2022 - Worship Message</h6>
                         <div className="embed-responsive embed-responsive-16by9">
