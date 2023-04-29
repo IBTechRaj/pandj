@@ -12,6 +12,7 @@ import {
   Post,
 } from "./components";
 import Sermons from './components/Sermons'
+import Sermons2022 from './components/Sermons2022'
 
 export default function App() {
   return (
@@ -23,6 +24,7 @@ export default function App() {
           <Route path="/about" element={<About />} />
           <Route path="/contact" element={<Contact />} />
           <Route path="/sermons" element={<Sermons />} />
+          <Route path="/sermons2022" element={<Sermons2022 />} />
           <Route path="/blog" element={<Blog />}>
             <Route path="" element={<Posts />} />
             <Route path=":postSlug" element={<Post />} />
