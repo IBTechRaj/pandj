@@ -52,14 +52,15 @@ function Programs() {
                             Children's Ministry
                         </p><p>
                             We believe in investing in the next generation. Our children's ministry is designed to provide a safe and nurturing environment where kids can learn about God's love and grow in their faith. We offer age-appropriate classes, engaging lessons, and fun activities that help children develop a strong foundation in their relationship with God.       </p>
-                        <p style={{
+                        {/* <p style={{
                             fontSize: 24, fontWeight: 700, color: '#0C71C5'
                         }}>
                             Youth Ministry
-                        </p><p>
+                        </p> */}
+                        {/* <p>
                             Our youth ministry is designed for middle and high school students, providing a place for them to connect, grow, and have fun together. We offer dynamic youth gatherings, small groups, and special events catering to teenagers' unique needs and interests. Our youth ministry is focused on helping students build a solid biblical foundation, develop strong relationships, and live out their faith in their daily lives.</p><p>
                             Ready to take the next step? Join us for one of our worship services, or connect with us through our website or social media channels. We can't wait to meet you and welcome you into our PJFC family!
-                        </p>
+                        </p> */}
                         <p style={{
                             fontSize: 24, fontWeight: 700, color: '#0C71C5'
                         }}>
