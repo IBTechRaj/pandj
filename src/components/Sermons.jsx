@@ -36,16 +36,91 @@ export default function Sermons() {
                 </div>{/* *******************************************************************************************************************************  */}
                 <div className="row align-items-center  my-5">
                     <div className="col-lg-6">
-                        <h5 className="font-weight-bold">GOD WHO Lifts Us Up</h5>
-                        <h6 className="font-weight-bold">30th April 2023 - Worship Message</h6>
+                        <h5 className="font-weight-bold">Slow to Chide, Swift to Bless</h5>
+                        <h6 className="font-weight-bold">4th June 2023 - Worship Message</h6>
                         <div className="embed-responsive embed-responsive-16by9">
-                            <iframe width="885" height="498" src="https://www.youtube.com/embed/Cf1DsK9JEMM" title="GOD WHO Lifts Us Up – Worship Exhortation – 2 April 2023" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>    </div>
+                            <iframe width="885" height="498" src="https://www.youtube.com/embed/6mr9T3pPtuI" title="Slow to Chide, Swift to Bless – Worship – 4 June 2023" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> </div>
                     </div>
                     <div className="col-lg-6">
-                        <h5 className="font-weight-bold">Son of man, do you see what they are doing? </h5>
+                        <h5 className="font-weight-bold">The Speech of a Godly Person </h5>
+                        <h6 className="font-weight-bold">4th June 2023 - Main Message</h6>
+                        <div className="embed-responsive embed-responsive-16by9">
+                            <iframe width="885" height="498" src="https://www.youtube.com/embed/JigcWgJxMz8" title="The Speech of a Godly Person – Message – 4 June 2023" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>   </div>
+                    </div>
+                </div>
+                {/* *******************************************************************************************************************************  */}
+                <div className="row align-items-center  my-5">
+                    <div className="col-lg-6">
+                        <h5 className="font-weight-bold">Transformed by HIS Grace</h5>
+                        <h6 className="font-weight-bold">28th May 2023 - Worship Message</h6>
+                        <div className="embed-responsive embed-responsive-16by9">
+                            <iframe width="885" height="498" src="https://www.youtube.com/embed/kPEuDLGYAJM" title="Transformed by HIS Grace – Worship – 28 May 2023" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> </div>
+                    </div>
+                    <div className="col-lg-6">
+                        <h5 className="font-weight-bold">Conquering Fear </h5>
+                        <h6 className="font-weight-bold">28th May 2023 - Main Message</h6>
+                        <div className="embed-responsive embed-responsive-16by9">
+                            <iframe width="885" height="498" src="https://www.youtube.com/embed/Zb--wXn07oc" title="Conquering Fear – Message – 28 May 2023" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  </div>
+                    </div>
+                </div>
+                {/* *******************************************************************************************************************************  */}
+                <div className="row align-items-center  my-5">
+                    <div className="col-lg-6">
+                        <h5 className="font-weight-bold">Faithfulness of GOD</h5>
+                        <h6 className="font-weight-bold">21st May 2023 - Worship Message</h6>
+                        <div className="embed-responsive embed-responsive-16by9">
+                            <iframe width="590" height="332" src="https://www.youtube.com/embed/mj1knijG9_k" title="Faithfulness of GOD – Worship – 21 May 2023" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  </div>
+                    </div>
+                    <div className="col-lg-6">
+                        <h5 className="font-weight-bold">The Tragedy of Eyes that Refuse to See </h5>
+                        <h6 className="font-weight-bold">21st May 2023 - Main Message</h6>
+                        <div className="embed-responsive embed-responsive-16by9">
+                            <iframe width="885" height="498" src="https://www.youtube.com/embed/YXTaex8dbvU" title="The Tragedy of Eyes that Refuse to See – Message – 21 May 2023" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  </div>
+                    </div>
+                </div>
+                {/* *******************************************************************************************************************************  */}
+                <div className="row align-items-center  my-5">
+                    <div className="col-lg-6">
+                        <h5 className="font-weight-bold">You will Not be Put to Shame</h5>
+                        <h6 className="font-weight-bold">14th May 2023 - Worship Message</h6>
+                        <div className="embed-responsive embed-responsive-16by9">
+                            <iframe width="885" height="498" src="https://www.youtube.com/embed/RhQ8Zg1Px8w" title="You will Not be Put to Shame – Worship – 14 May 2023" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> </div>
+                    </div>
+                    <div className="col-lg-6">
+                        <h5 className="font-weight-bold">Allow GOD to fill your life </h5>
+                        <h6 className="font-weight-bold">14th May 2023 - Main Message</h6>
+                        <div className="embed-responsive embed-responsive-16by9">
+                            <iframe width="885" height="498" src="https://www.youtube.com/embed/dmRODqJbVw0" title="Allow GOD to fill your life – Message – 14 May 2023" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>    </div>
+                    </div>
+                </div>
+                {/* *******************************************************************************************************************************  */}
+                <div className="row align-items-center  my-5">
+                    <div className="col-lg-6">
+                        <h5 className="font-weight-bold">Under HIS Feathers</h5>
+                        <h6 className="font-weight-bold">7th May 2023 - Worship Message</h6>
+                        <div className="embed-responsive embed-responsive-16by9">
+                            <iframe width="885" height="498" src="https://www.youtube.com/embed/naHNTD6C7ao" title="Under HIS Feathers – Worship – 7 May 2023" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  </div>
+                    </div>
+                    <div className="col-lg-6">
+                        <h5 className="font-weight-bold">Signs of A Hard Heart </h5>
+                        <h6 className="font-weight-bold">7th May 2023 - Main Message</h6>
+                        <div className="embed-responsive embed-responsive-16by9">
+                            <iframe width="885" height="498" src="https://www.youtube.com/embed/Gy-8aqNdZOY" title="Signs of A Hard Heart – Message – 7 May 2023" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>     </div>
+                    </div>
+                </div>
+                {/* *******************************************************************************************************************************  */}
+                <div className="row align-items-center  my-5">
+                    <div className="col-lg-6">
+                        <h5 className="font-weight-bold">Our SHEPHERD</h5>
+                        <h6 className="font-weight-bold">30th April 2023 - Worship Message</h6>
+                        <div className="embed-responsive embed-responsive-16by9">
+                            <iframe width="885" height="498" src="https://www.youtube.com/embed/mZr0nbHR4Ig" title="Our SHEPHERD – Worship – 30 April 2023" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>    </div>
+                    </div>
+                    <div className="col-lg-6">
+                        <h5 className="font-weight-bold">Are You Really Free? </h5>
                         <h6 className="font-weight-bold">30th April 2023 - Main Message</h6>
                         <div className="embed-responsive embed-responsive-16by9">
-                            <iframe width="885" height="498" src="https://www.youtube.com/embed/V9mQ5WWc3nc" title="Son of man, do you see what they are doing? – Message – 2 April 2023" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>     </div>
+                            <iframe width="885" height="498" src="https://www.youtube.com/embed/j-Vm4IvzosY" title="Are You Really Free? – Message – 30 April 2023" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>     </div>
                     </div>
                 </div>
                 {/* *******************************************************************************************************************************  */}
