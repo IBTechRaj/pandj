@@ -37,6 +37,182 @@ export default function Sermons() {
                 <div className="row align-items-center  my-5">
                     <div className="col-lg-6">
                         <h5 className="font-weight-bold">Slow to Chide, Swift to Bless</h5>
+                        <h6 className="font-weight-bold">20th August 2023 - Worship Message</h6>
+                        <div className="embed-responsive embed-responsive-16by9">
+                            <iframe width="885" height="498" src="https://www.youtube.com/embed/6mr9T3pPtuI" title="Slow to Chide, Swift to Bless – Worship – 4 June 2023" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> </div>
+                    </div>
+                    <div className="col-lg-6">
+                        <h5 className="font-weight-bold">The Speech of a Godly Person </h5>
+                        <h6 className="font-weight-bold">20th August 2023 - Main Message</h6>
+                        <div className="embed-responsive embed-responsive-16by9">
+                            <iframe width="885" height="498" src="https://www.youtube.com/embed/JigcWgJxMz8" title="The Speech of a Godly Person – Message – 4 June 2023" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>   </div>
+                    </div>
+                </div>
+
+                {/* *******************************************************************************************************************************  */}
+                <div className="row align-items-center  my-5">
+                    <div className="col-lg-6">
+                        <h5 className="font-weight-bold">The PRINCE Who Loved Us</h5>
+                        <h6 className="font-weight-bold">13th August 2023 - Worship Message</h6>
+                        <div className="embed-responsive embed-responsive-16by9">
+                            <iframe width="873" height="491" src="https://www.youtube.com/embed/f3SkKRo4_qI" title="The PRINCE Who Loved Us – Worship – 13 Aug 2023" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> </div>
+                    </div>
+                    <div className="col-lg-6">
+                        <h5 className="font-weight-bold">A Frightening Dream </h5>
+                        <h6 className="font-weight-bold">13th August 2023 - Main Message</h6>
+                        <div className="embed-responsive embed-responsive-16by9">
+                            <iframe width="873" height="491" src="https://www.youtube.com/embed/n6JTnnEp7tc" title="A Frightening Dream – Message – 13 Aug 2023" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>   </div>
+                    </div>
+                </div>
+
+                {/* *******************************************************************************************************************************  */}
+                <div className="row align-items-center  my-5">
+                    <div className="col-lg-6">
+                        <h5 className="font-weight-bold">The Truth Will Set You Free</h5>
+                        <h6 className="font-weight-bold">6th August 2023 - Worship Message</h6>
+                        <div className="embed-responsive embed-responsive-16by9">
+                            <iframe width="873" height="491" src="https://www.youtube.com/embed/lvmdSEm68Kc" title="The Truth Will Set You Free – Worship – 6 Aug 2023" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> </div>
+                    </div>
+                    <div className="col-lg-6">
+                        <h5 className="font-weight-bold">Living the Uncompromising Life </h5>
+                        <h6 className="font-weight-bold">6th August 2023 - Main Message</h6>
+                        <div className="embed-responsive embed-responsive-16by9">
+                            <iframe width="873" height="491" src="https://www.youtube.com/embed/IWlodQTBh9A" title="Living the Uncompromising Life – Message – 6 Aug 2023" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>   </div>
+                    </div>
+                </div>
+
+                {/* *******************************************************************************************************************************  */}
+                <div className="row align-items-center  my-5">
+                    <div className="col-lg-6">
+                        <h5 className="font-weight-bold">GOD's Power</h5>
+                        <h6 className="font-weight-bold">30th July 2023 - Worship Message</h6>
+                        <div className="embed-responsive embed-responsive-16by9">
+                            <iframe width="873" height="491" src="https://www.youtube.com/embed/YoP6KBW-27E" title="GOD&#39;s Power – Worship – 30 July 2023" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> </div>
+                    </div>
+                    <div className="col-lg-6">
+                        <h5 className="font-weight-bold">You Knew All This </h5>
+                        <h6 className="font-weight-bold">30th July 2023 - Main Message</h6>
+                        <div className="embed-responsive embed-responsive-16by9">
+                            <iframe width="873" height="491" src="https://www.youtube.com/embed/FuraO_tUXwY" title="You Knew All This – Message – 30 July 2023" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  </div>
+                    </div>
+                </div>
+
+                {/* *******************************************************************************************************************************  */}
+                <div className="row align-items-center  my-5">
+                    <div className="col-lg-6">
+                        <h5 className="font-weight-bold">Access to Tree of Life Restored</h5>
+                        <h6 className="font-weight-bold">23rd July 2023 - Worship Message</h6>
+                        <div className="embed-responsive embed-responsive-16by9">
+                            <iframe width="873" height="491" src="https://www.youtube.com/embed/4PMb5U9F9TA" title="Access to Tree of Life Restored – Worship – 23 July 2023" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> </div>
+                    </div>
+                    <div className="col-lg-6">
+                        <h5 className="font-weight-bold">Dealing with Depression </h5>
+                        <h6 className="font-weight-bold">23rd July 2023 - Main Message</h6>
+                        <div className="embed-responsive embed-responsive-16by9">
+                            <iframe width="873" height="491" src="https://www.youtube.com/embed/ggUZfrvfBP8" title="Dealing with Depression – Message – 23 July 2023" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>   </div>
+                    </div>
+                </div>
+
+                {/* *******************************************************************************************************************************  */}
+                <div className="row align-items-center  my-5">
+                    <div className="col-lg-6">
+                        <h5 className="font-weight-bold">Unmerited Kindness</h5>
+                        <h6 className="font-weight-bold">16th July 2023 - Worship Message</h6>
+                        <div className="embed-responsive embed-responsive-16by9">
+                            <iframe width="873" height="491" src="https://www.youtube.com/embed/Dh8jT99Z5nA" title="Unmerited Kindness – Worship – 16 July 2023" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> </div>
+                    </div>
+                    <div className="col-lg-6">
+                        <h5 className="font-weight-bold">Lostness to Wholeness </h5>
+                        <h6 className="font-weight-bold">16th July 2023 - Main Message</h6>
+                        <div className="embed-responsive embed-responsive-16by9">
+                            <iframe width="873" height="491" src="https://www.youtube.com/embed/rnzxQqovRxs" title="Lostness to Wholeness  – Message – 16 July 2023" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>   </div>
+                    </div>
+                </div>
+
+                {/* *******************************************************************************************************************************  */}
+                <div className="row align-items-center  my-5">
+                    <div className="col-lg-6">
+                        <h5 className="font-weight-bold">GOD WHO Gives Us Relief</h5>
+                        <h6 className="font-weight-bold">9th July 2023 - Worship Message</h6>
+                        <div className="embed-responsive embed-responsive-16by9">
+                            <iframe width="873" height="491" src="https://www.youtube.com/embed/eU0R2jEuxmY" title="GOD WHO Gives Us Relief  – Worship – 9 July 2023" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> </div>
+                    </div>
+                    <div className="col-lg-6">
+                        <h5 className="font-weight-bold">The Sin Called Worry </h5>
+                        <h6 className="font-weight-bold">9th July 2023 - Main Message</h6>
+                        <div className="embed-responsive embed-responsive-16by9">
+                            <iframe width="873" height="491" src="https://www.youtube.com/embed/b3QolIFTLb0" title="The Sin Called Worry – Message – 9 July 2023" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>   </div>
+                    </div>
+                </div>
+
+                {/* *******************************************************************************************************************************  */}
+                <div className="row align-items-center  my-5">
+                    <div className="col-lg-6">
+                        <h5 className="font-weight-bold">Does GOD Choose Some and Reject Some?</h5>
+                        <h6 className="font-weight-bold">2nd July 2023 - Worship Message</h6>
+                        <div className="embed-responsive embed-responsive-16by9">
+                            <iframe width="873" height="491" src="https://www.youtube.com/embed/e4_5ksvWmWk" title="Does GOD Choose Some and Reject Some? – Worship – 2 July 2023" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> </div>
+                    </div>
+                    <div className="col-lg-6">
+                        <h5 className="font-weight-bold">Can We Look Good and Be Lost at the Same Time? </h5>
+                        <h6 className="font-weight-bold">2nd July 2023 - Main Message</h6>
+                        <div className="embed-responsive embed-responsive-16by9">
+                            <iframe width="873" height="491" src="https://www.youtube.com/embed/XdncN89EUog" title="Can We Look Good and Be Lost at the Same Time? – Message – 2 July 2023" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>   </div>
+                    </div>
+                </div>
+
+                {/* *******************************************************************************************************************************  */}
+                <div className="row align-items-center  my-5">
+                    <div className="col-lg-6">
+                        <h5 className="font-weight-bold">GOD WHO is Sovereign Over All Things</h5>
+                        <h6 className="font-weight-bold">25th June 2023 - Worship Message</h6>
+                        <div className="embed-responsive embed-responsive-16by9">
+                            <iframe width="873" height="491" src="https://www.youtube.com/embed/kiV6ambwQTE" title="GOD WHO is Sovereign Over All Things  – Worship – 25 June 2023" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> </div>
+                    </div>
+                    <div className="col-lg-6">
+                        <h5 className="font-weight-bold">Don't Lose Heart </h5>
+                        <h6 className="font-weight-bold">25th June 2023 - Main Message</h6>
+                        <div className="embed-responsive embed-responsive-16by9">
+                            <iframe width="873" height="491" src="https://www.youtube.com/embed/QQySXt-jc3s" title="Don&#39;t Lose Heart – Message – 25 June 2023" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>   </div>
+                    </div>
+                </div>
+
+                {/* *******************************************************************************************************************************  */}
+                <div className="row align-items-center  my-5">
+                    <div className="col-lg-6">
+                        <h5 className="font-weight-bold">Ruth's Story and Ours</h5>
+                        <h6 className="font-weight-bold">18th June 2023 - Worship Message</h6>
+                        <div className="embed-responsive embed-responsive-16by9">
+                            <iframe width="873" height="491" src="https://www.youtube.com/embed/GAR0zth3BkU" title="Ruth&#39;s Story and Ours – Worship – 18 June 2023" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> </div>
+                    </div>
+                    <div className="col-lg-6">
+                        <h5 className="font-weight-bold">Have You Seen Your Life Through? </h5>
+                        <h6 className="font-weight-bold">18th June 2023 - Main Message</h6>
+                        <div className="embed-responsive embed-responsive-16by9">
+                            <iframe width="873" height="491" src="https://www.youtube.com/embed/j8EWDriLuNo" title="Have You Seen Your Life Through? – Message – 18 June 2023" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>   </div>
+                    </div>
+                </div>
+
+                {/* *******************************************************************************************************************************  */}
+                <div className="row align-items-center  my-5">
+                    <div className="col-lg-6">
+                        <h5 className="font-weight-bold">HE WHO keeps You from Falling</h5>
+                        <h6 className="font-weight-bold">11th June 2023 - Worship Message</h6>
+                        <div className="embed-responsive embed-responsive-16by9">
+                            <iframe width="873" height="491" src="https://www.youtube.com/embed/_pOF5XlnAdo" title="HE WHO keeps You from Falling – Worship – 11 June 2023" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> </div>
+                    </div>
+                    <div className="col-lg-6">
+                        <h5 className="font-weight-bold">Handling Allergies in Relationships </h5>
+                        <h6 className="font-weight-bold">11th June 2023 - Main Message</h6>
+                        <div className="embed-responsive embed-responsive-16by9">
+                            <iframe width="873" height="491" src="https://www.youtube.com/embed/Wky3EuACGAA" title="Handling Allergies in Relationships – Message – 11 June 2023" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>   </div>
+                    </div>
+                </div>
+
+                {/* *******************************************************************************************************************************  */}
+                <div className="row align-items-center  my-5">
+                    <div className="col-lg-6">
+                        <h5 className="font-weight-bold">Slow to Chide, Swift to Bless</h5>
                         <h6 className="font-weight-bold">4th June 2023 - Worship Message</h6>
                         <div className="embed-responsive embed-responsive-16by9">
                             <iframe width="885" height="498" src="https://www.youtube.com/embed/6mr9T3pPtuI" title="Slow to Chide, Swift to Bless – Worship – 4 June 2023" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> </div>
@@ -48,6 +224,7 @@ export default function Sermons() {
                             <iframe width="885" height="498" src="https://www.youtube.com/embed/JigcWgJxMz8" title="The Speech of a Godly Person – Message – 4 June 2023" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>   </div>
                     </div>
                 </div>
+
                 {/* *******************************************************************************************************************************  */}
                 <div className="row align-items-center  my-5">
                     <div className="col-lg-6">
