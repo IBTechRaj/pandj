@@ -1,5 +1,6 @@
 import React from "react";
 import contact from "../pics/contact.png"
+import ContactForm from './ContactForm'
 
 function Contact() {
   return (
@@ -8,7 +9,7 @@ function Contact() {
         <div className="row align-items-center my-5 py-2">
           <img style={{ width: "100%", height: 300 }} src={contact} alt="img missing" />
         </div>
-
+        {/* <ContactForm /> */}
         <div className="row justify-content-center">
           <h1 style={{ fontSize: 48, fontWeight: 600, color: '#0C71C5' }}>Contact</h1>
         </div>
@@ -20,7 +21,7 @@ function Contact() {
         <div className="row align-items-center my-5" style={{ fontSize: 24, fontWeight: 400 }}>
           <p style={{
             fontSize: 24, fontWeight: 600, color: '#0C71C5'
-          }}>Visit:  </p><p>
+          }}>Visit:
             If you would like to visit our church in person,  </p>
           <div style={{ margin: 80 }}>
             <p style={{
@@ -34,6 +35,7 @@ function Contact() {
 
             </p>
           </div>
+          {/* <ContactForm /> */}
           <div className="row align-items-center my-5" style={{ fontSize: 24, fontWeight: 400 }}>
             <p>
               We welcome you to join us for our worship services, events, and programs.
@@ -47,6 +49,9 @@ function Contact() {
             </p>
           </div>
         </div>
+      </div>
+      <div className="py-5" style={{ border: "2px" }}>
+        <ContactForm />
       </div>
     </div>
   );

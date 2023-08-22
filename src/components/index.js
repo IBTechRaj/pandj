@@ -4,6 +4,7 @@ export { default as Home } from "./Home";
 export { default as About } from "./About";
 export { default as Statement } from "./Statement";
 export { default as Contact } from "./Contact";
+export { default as ContactForm } from "./ContactForm";
 export { default as Blog } from "./blog/Blog";
 export { default as Posts } from "./blog/Posts";
 export { default as Post } from "./blog/Post";
