@@ -5,8 +5,8 @@ function About() {
   return (
     <div className="about">
       <div className="container">
-        <div className="row align-items-center my-5 py-2">
-          <img style={{ width: "100%", height: 300 }} src={about} alt="img missing" />
+        <div className="row justify-content-center my-5 py-2">
+          <img src={about} alt="img missing" />
         </div>
         <div className="row justify-content-center">
           <h1 style={{ fontSize: 48, fontWeight: 600, color: '#0C71C5' }}>About</h1>
